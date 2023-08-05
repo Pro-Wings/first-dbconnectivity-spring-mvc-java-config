@@ -4,9 +4,9 @@
 <html>
 <body>
 
-	<h2>Response from app : </h2>
-	
-	${msg}
+	<h2>Response from app : ${msg}</h2>
+
+<a href="index.jsp">Click here to return HOME Page</a>
 
 </body>
 </html>

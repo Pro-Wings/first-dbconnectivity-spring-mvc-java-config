@@ -19,6 +19,6 @@
 			
 		</c:forEach>
 	</ol>
-
+<a href="index.jsp">Click here to return HOME Page</a>
 </body>
 </html>

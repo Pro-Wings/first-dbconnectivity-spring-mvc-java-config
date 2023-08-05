@@ -30,7 +30,7 @@
 
     <h3>View All Employee Details :</h3>
 
-  <form action="/first-dbconnectivity-spring-mvc-java-config/viewAllEmployees" method="get">
+  <form action="viewAllEmployees" method="get">
           <table>
                <input type="submit" value="View All Employee Details">
   		  </table>
